@@ -1,4 +1,5 @@
 #pipinstallvidstream
+#pip install audiopy dando erro
 
 from vidstream import AudioSender
 from vidstream import AudioReceiver
