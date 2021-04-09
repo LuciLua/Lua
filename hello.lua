@@ -37,7 +37,6 @@ else
 end
 
 print(t)
-
 numero = 10
 
 if numero == 5 or numero == 4 then
@@ -45,7 +44,6 @@ if numero == 5 or numero == 4 then
 else
     print('O numero ',numero,'e diferente de 5 ou 4')
 end
-
 
 
 -- control shift b para rodar VSCode
