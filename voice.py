@@ -1,6 +1,6 @@
 from vidstream import AudioSender
 from vidstream import AudioReceiver
-
+#Linha pelo linux | !!!
 import threading
 import socket
 
