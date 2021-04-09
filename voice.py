@@ -17,3 +17,5 @@ receiver_thread.start()
 #sender_thread.start()
 
 sender_thread.start()
+
+##mudando essa linha de codigo pelo Desktop
