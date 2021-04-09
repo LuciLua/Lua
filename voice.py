@@ -1,4 +1,5 @@
 #pipinstallvidstream
+#pip install audiopy dando erro
 
 from vidstream import AudioSender
 from vidstream import AudioReceiver
@@ -15,4 +16,8 @@ receiver_thread = threading.Thread(target=receiver.start_server)
 #sender_thread = threading.Thread(target=sender.start_stream)
 
 receiver_thread.start()
+<<<<<<< HEAD
 #sender_thread.start()
+=======
+sender_thread.start()
+>>>>>>> c7b70c53a7576cd5a1f1df0c151ecc96a53cd208
