@@ -1,29 +1,33 @@
-print("Hello, world!")
-print(2*3)
-nome = "lucia"
-print(nome)
+t = ('--------------')
+print(t,"\nHello, world!")
 
 string = [[
-    Ola!, meu nome e lucia
-    Quebra de linahs
+
+    Texto com quebra de linhas
+    quebra de linhas
+|-----------------------------|
+|  Linguagem  |  Dificuldade  |
+| .  .   .    | .   .   .   . |
+|    Lua      |      ??       |
+|-----------------------------|
+
 ]]
 
-print(string)
+print(t, string, t)
+
 
 bool = nil
 
 if not bool then
     print(bool,'e falso')
 else
-    print(bool,' e vrdd')
+    print(bool,' e verdadeiro')
 end
 
-
--- control shift b para rodar
-
-
-bo = pip
-print(bo) --preenche como nulo
+varA = varB
+print(t)
+print(varA) --preenche como nulo
+print(t)
 
 
 if bool ~= nil then
@@ -32,23 +36,16 @@ else
     print('é nulo')
 end
 
-print('----------------')
+print(t)
 
 numero = 10
 
 if numero == 5 or numero == 4 then
-    print(numero,' e igual a 5 ou a 4')
+    print('o numero ',numero,' e igual a 5 ou a 4')
 else
-    print(numero,'e diferente de 5 ou 4')
+    print('O numero ',numero,'e diferente de 5 ou 4')
 end
 
-print('----------------')
 
 
-while 
-
-
-
-
-
-
+-- control shift b para rodar VSCode
