@@ -1,6 +1,1 @@
-# Voice Chat | Python
-
-
-# Preview
-# Installation
-## pip3 install vidstream
+# Meu primeiro codigo em Lua
